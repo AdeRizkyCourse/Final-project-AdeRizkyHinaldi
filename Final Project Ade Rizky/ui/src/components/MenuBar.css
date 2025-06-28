@@ -1,0 +1,8 @@
+.custom-link {
+  transition: all 0.2s ease;
+}
+
+.custom-link:hover {
+  font-weight: 600;
+  text-decoration: underline;
+}
